@@ -1,6 +1,5 @@
 # README
 
-Th
 * To run the code
 
 ```bash
