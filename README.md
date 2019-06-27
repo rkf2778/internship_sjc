@@ -23,7 +23,7 @@ Things you may want to cover:
 
 * To run the code
 
-```ruby
+```bash
 bundle install
 rails s
 ```
